@@ -1,0 +1,65 @@
+body {
+
+font-family: "Avenir", 'helvetica neue', 'helvetica', 'arial' !important;
+    background: #2a3b4b;
+    background-size: 108px 108px;
+}	
+#wrapper {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 5%;
+}
+#articles {
+	overflow: auto;
+	text-align: center;
+}
+#notes {
+	
+
+	text-align: center;
+}
+textarea, input {
+	display: block;
+	width: 100%;
+	background-color: #FCF5C7;
+}
+input {
+	height: 36px;
+	font-size: 24px;
+}
+	textarea {
+	height: 200px;
+	font-size: 18px;
+}
+
+.jumbotron {
+    background: transparent;
+    padding: 0;
+    color: white;
+}
+
+p{
+    color: #bde0f4;
+    text-align: center;
+    font-size: 40px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+	color: #bde0f4;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
